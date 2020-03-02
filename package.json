@@ -1,0 +1,19 @@
+{
+  "name": "basicchatclient",
+  "version": "1.0.0",
+  "description": "client side for basicChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meohyun2/basicChatClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meohyun2/basicChatClient/issues"
+  },
+  "homepage": "https://github.com/meohyun2/basicChatClient#readme"
+}
